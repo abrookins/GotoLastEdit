@@ -1,0 +1,10 @@
+[
+{
+    "id": "goto",
+    "children":
+    [
+        {"id": "custom"},
+        { "command": "goto_last_edit" }
+    ]
+}
+]
